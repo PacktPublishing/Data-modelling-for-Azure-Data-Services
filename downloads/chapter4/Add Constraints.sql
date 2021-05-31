@@ -1,0 +1,11 @@
+ALTER TABLE dbo.Product
+ADD CONSTRAINT UX_ProductName UNIQUE NONCLUSTERED (ProductName);
+GO
+
+ALTER TABLE dbo.Product
+ADD CONSTRAINT CK_UnitPrice CHECK (UnitPrice > 0);
+GO
+
+ALTER TABLE dbo.[Order]
+ADD CONSTRAINT DF_Orderdate DEFAULT SYSDATETIME() FOR OrderDate;
+GO
