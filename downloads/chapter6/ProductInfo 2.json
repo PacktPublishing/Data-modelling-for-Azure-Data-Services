@@ -1,0 +1,16 @@
+{
+   "id": "2",
+    "productid": "33218897",
+    "category": "Women's Outerwear",
+    "manufacturer": "Contoso",
+    "description": "Black wool pea-coat",
+    "price": "49.99",
+    "shipping": {
+        "weight": 2,
+        "dimensions": {
+        "width": 8,
+        "height": 11,
+        "depth": 3
+       }
+    }
+} 

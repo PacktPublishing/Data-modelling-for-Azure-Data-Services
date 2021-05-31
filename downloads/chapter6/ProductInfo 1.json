@@ -1,0 +1,16 @@
+{
+    "id": "1",
+    "productid": "33218896",
+    "category": "Women's Clothing",
+    "manufacturer": "Contoso Sport",
+    "description": "Quick dry crew neck t-shirt",
+    "price": "14.99",
+    "shipping": {
+        "weight": 1,
+        "dimensions": {
+        "width": 6,
+        "height": 8,
+        "depth": 1
+       }
+    }
+ }
