@@ -68,3 +68,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Peter ter Braake**
 He started working as a developer in 1996 after studying physics in Utrecht, the Netherlands. Databases and business intelligence piqued his interest the most, leading to him specializing in SQL Server and its business intelligence components. He has worked with Power BI from the tool's very beginnings. Peter started working as an independent contractor in 2008. This has enabled him to divide his time between teaching data-related classes, consulting with customers, and writing articles and books.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801077347">https://packt.link/free-ebook/9781801077347 </a> </p>
